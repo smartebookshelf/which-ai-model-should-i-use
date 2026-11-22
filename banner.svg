@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Which AI model should I use: ChatGPT vs Claude vs Gemini">
+<title>Which AI model should I use: ChatGPT vs Claude vs Gemini</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d2638"/><stop offset="0.6" stop-color="#24304a"/><stop offset="1" stop-color="#2b3550"/></linearGradient>
+<radialGradient id="glow" cx="0.86" cy="0.12" r="0.55"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="0.04" cy="1" r="0.5"><stop offset="0" stop-color="#ffb347" stop-opacity="0.22"/><stop offset="1" stop-color="#ffb347" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity="0.07"/></pattern>
+<linearGradient id="mk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9a3c"/><stop offset="1" stop-color="#f2622e"/></linearGradient>
+<radialGradient id="orb" cx="0.3" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffd2a8"/><stop offset="1" stop-color="#ff8a3d"/></radialGradient>
+<clipPath id="r"><rect width="1280" height="420" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1280" height="420" fill="url(#bg)"/><rect width="1280" height="420" fill="url(#glow)"/><rect width="1280" height="420" fill="url(#glow2)"/><rect width="1280" height="420" fill="url(#dots)"/>
+<circle cx="1085" cy="245" r="150" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="7 9"/>
+<circle cx="1085" cy="245" r="96" fill="#f59e0b" fill-opacity="0.12"/>
+<text x="1085" y="282" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="84" fill="#f59e0b">AI</text>
+<text x="1085" y="318" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="15" letter-spacing="3" fill="#fff1e4" fill-opacity="0.8">PICKER</text>
+<circle cx="960" cy="92" r="34" fill="url(#orb)" fill-opacity="0.85"/><circle cx="1225" cy="380" r="22" fill="#3f9a94" fill-opacity="0.6"/>
+<rect x="80" y="62" width="46" height="46" rx="13" fill="url(#mk)"/>
+<rect x="92" y="78" width="5" height="18" rx="1.5" fill="#fff"/><rect x="100" y="83" width="5" height="13" rx="1.5" fill="#fff"/><rect x="108" y="78" width="5" height="16" rx="1.5" fill="#fff" transform="rotate(14 110 86)"/>
+<text x="140" y="85" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="24" fill="#fff1e4">Smart Ebook Shelf</text>
+<text x="140" y="106" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#d9d3cc">The AI ebook market</text>
+<rect x="80" y="130" width="164" height="34" rx="17" fill="#f59e0b" fill-opacity="0.18" stroke="#f59e0b" stroke-opacity="0.55"/>
+<circle cx="99" cy="147" r="5" fill="#f59e0b"/>
+<text x="112" y="152" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="14" letter-spacing="2" fill="#f59e0b">FREE GUIDE</text>
+<text x="80" y="236" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="62" fill="#ffffff"><tspan x="80" dy="0">Which AI Model</tspan><tspan x="80" dy="74">Should I Use?</tspan></text>
+<text x="80" y="368" font-family="Helvetica, Arial, sans-serif" font-size="25" fill="#d9d3cc">ChatGPT vs Claude vs Gemini, by task</text>
+</g>
+</svg>
